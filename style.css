@@ -1,0 +1,31 @@
+h1 {
+  position: absolute;
+  width: 624px;
+  height: 210px;
+  left: 137px;
+  top: 286px;
+
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+
+img.coba {
+  position: absolute;
+  width: 630px;
+  height: 529px;
+  left: 761px;
+  top: 205px;
+}
+
+ul.coba2 {
+  position: absolute;
+  width: 587px;
+  height: 24px;
+  left: 413px;
+  top: 56px;
+}
